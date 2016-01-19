@@ -1,0 +1,1 @@
+dumb: ruby ./base.rb
