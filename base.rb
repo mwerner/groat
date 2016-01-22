@@ -1,4 +1,4 @@
-VERSION = '0.0.0pre'
+VERSION = '0.0.3'
 
 puts "Version: #{VERSION}"
 puts "NAILED IT."
